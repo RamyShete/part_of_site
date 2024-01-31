@@ -1,0 +1,92 @@
+body {
+    width: 1000px;
+    padding-top: 30px;
+    padding-left: 95px;
+    padding-bottom: 10px;
+    padding-left: 34px;
+    font-size: 20px;
+}
+
+.header {
+    width: 60%;
+}
+
+.headers-holder {
+    display: flex;
+    justify-content: space-between;
+}
+
+.from-basov {
+    padding-top: 20px;
+    text-align: justify;
+    text-indent: 47px;
+}
+
+.form-group {
+    font-size: 20px;
+    clear: both;
+    text-align: right;
+    line-height: 25px;
+}
+
+.form-group-1 {
+    font-size: 20px;
+    clear: both;
+    text-align: left;
+    line-height: 25px;
+}
+
+.form-control {
+    width: 550px;
+}
+
+.form-control-2 {
+    width: 700px;
+}
+
+.form-control-3 {
+    width: 530px;
+}
+
+.graduate {
+    clear: both;
+    text-align: right;
+    line-height: 25px;
+}
+
+label {
+    float: left;
+    padding-right: 10px;
+}
+
+.additional {
+    text-align: center;
+    font-size: 20px;
+}
+
+.additional-1 {
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.statement-title {
+    padding-top: 10px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.statement {
+    text-align: justify;
+    text-indent: 47px;
+}
+
+.student-data {
+    text-align: justify;
+    text-indent: 47px;
+}
+
+.footers-holder {
+    display: flex;
+    justify-content: space-between;
+}
